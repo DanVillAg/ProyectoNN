@@ -11,6 +11,8 @@
 
 El reporte principal es el archivo Experimento_Convolución2d, el otro contiene un segundo intento con otra arquitectura.
 
+En general, al menos segun lo consultado en la litratura, el reconocimiento de audio por medio de redes convolucionales presenta un reto bastante dificil. Los resultados alcanzados no fueron los deseados, ya que no se obtubo un buen predictor.
+
 Se trabajó con los datos obtenidos en la siguientes ligas:
 
 * https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification
