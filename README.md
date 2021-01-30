@@ -9,6 +9,8 @@
 ## Integrante:
 * Daniel Villegas Aguilar
 
+El reporte principal es el archivo Experimento_Convolución2d, el otro contiene un segundo intento con otra arquitectura.
+
 Se trabajó con los datos obtenidos en la siguientes ligas:
 
 * https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification
