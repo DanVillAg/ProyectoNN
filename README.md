@@ -1,6 +1,6 @@
 # ProyectoNN
-##UNAM facultad de Ciencias Proyecto materia de Redes neuronales
-###Redes covolucionaltes y LTSM para clasificación musical
+## UNAM facultad de Ciencias Proyecto materia de Redes neuronales
+### Redes covolucionaltes y LTSM para clasificación musical
 
 * Profesora: Verónica Esther Arriola Ríos
 * Ayudante: Dimitri Semenov Flores
