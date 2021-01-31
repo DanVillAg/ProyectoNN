@@ -9,9 +9,11 @@
 ## Integrante:
 * Daniel Villegas Aguilar
 
-El reporte principal es el archivo Experimento_Convolución2d, el otro contiene un segundo intento con otra arquitectura.
+El reporte principal es el archivo Experimento_Convolución2d, el otro contiene un segundo intento con otra arquitectura, inspirado en el siguiente artículo (aunque con el cambio de un lstm en lugar de una red recurrente):
 
-En general, al menos segun lo consultado en la litratura, el reconocimiento de audio por medio de redes convolucionales presenta un reto bastante dificil. Los resultados alcanzados no fueron los deseados, ya que no se obtubo un buen predictor.
+ * https://arxiv.org/pdf/1609.04243.pdf
+
+En general, al menos segun lo consultado en la litratura, el reconocimiento de audio por medio de redes convolucionales presenta un reto bastante dificil. Los resultados alcanzados no fueron los deseados, ya que no se obtubo un buen predictor. Ambos métodos intentados no superaron el 30% de accuracy.
 
 Se trabajó con los datos obtenidos en la siguientes ligas:
 
