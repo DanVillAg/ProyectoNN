@@ -13,7 +13,7 @@ El reporte principal es el archivo Experimento_Convolución2d, el otro contiene 
 
  * https://arxiv.org/pdf/1609.04243.pdf
 
-En general, al menos segun lo consultado en la litratura, el reconocimiento de audio por medio de redes convolucionales presenta un reto bastante dificil. Los resultados alcanzados no fueron los deseados, ya que no se obtubo un buen predictor. Ambos métodos intentados no superaron el 30% de accuracy.
+En general, al menos segun lo consultado en la litratura, el reconocimiento de audio por medio de redes convolucionales presenta un reto bastante dificil. Los resultados alcanzados no fueron los deseados, ya que no se obtuvo un buen predictor. Ambos métodos intentados no superaron el 30% de accuracy.
 
 Se trabajó con los datos obtenidos en la siguientes ligas:
 
